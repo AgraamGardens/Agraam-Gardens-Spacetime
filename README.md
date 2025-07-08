@@ -21,7 +21,7 @@ The project combines metaphysical intuition with a physically-inspired structure
 1/3 Etheric lattice hypothesis
 2/3 Temporal engine
 3/3 Mass as pattern
-4/3 Tesla and elecricity
+4/3 Tesla and electricity
 
 You can read the first part of the theory here:  
 ➡️ [Part 1 – Etheric Lattice Hypothesis (PDF)](./paper-etheric-lattice/Part1-3-EthericLattice.%20SergeiGontsarenko.pdf)
