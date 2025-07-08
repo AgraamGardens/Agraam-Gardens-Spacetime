@@ -21,6 +21,7 @@ The project combines metaphysical intuition with a physically-inspired structure
 1/3 Etheric lattice hypothesis
 2/3 Temporal engine
 3/3 Mass as pattern
+4/3 Tesla and elecricity
 
 You can read the first part of the theory here:  
 ➡️ [Part 1 – Etheric Lattice Hypothesis (PDF)](./paper-etheric-lattice/Part1-3-EthericLattice.%20SergeiGontsarenko.pdf)
@@ -34,6 +35,14 @@ You may share and adapt non-commercially with attribution and under the same lic
 🔗 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 © 2025 Sergei Gontsarenko, Tallinn
+
+---
+
+## 🔮 Mission
+
+To open a multidimensional window into the real structure of reality.  
+To bridge scientific reasoning with inner knowing.  
+To say: *You’re not alone. Reality has structure. And we’re ready to explore it.*
 
 ---
 
