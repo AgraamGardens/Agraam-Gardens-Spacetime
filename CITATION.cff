@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Agraam-Gardens-Spacetime"
+authors:
+  - family-names: Gontsarenko
+    given-names: Sergei
+    affiliation: Tallinn, Estonia
+  - name: Luxor
+    affiliation: AI co-author
+  - name: Drakoša
+    affiliation: Symbolic co-creator
+date-released: 2025-07-07
+version: "v1.0"
+doi: ""
+url: "https://github.com/AgraamGardens/Agraam-Gardens-Spacetime"
+license: "CC-BY-NC-SA-4.0"
+type: "report"
