@@ -1,4 +1,4 @@
-# Etheric Lattice Hypothesis – Part I–III
+# Etheric Lattice Hypothesis – Part I/III
 
 📄 **Document:** [Part1-3-EthericLattice.SergeiGontsarenko.pdf](./Part1-3-EthericLattice.SergeiGontsarenko.pdf)  
 ✍️ **Author:** Sergei Gontsarenko (Tallinn, 2025)  
