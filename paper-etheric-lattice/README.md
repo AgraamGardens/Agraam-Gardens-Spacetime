@@ -1,6 +1,6 @@
 # Etheric Lattice Hypothesis – Part I/III
 
-📄 **Document:** [Part1-3-EthericLattice.SergeiGontsarenko.pdf](./Part1-3-EthericLattice.SergeiGontsarenko.pdf)  
+📄 **Document:** [[Part1-3-EthericLattice.SergeiGontsarenko.pdf](./Part1-3-EthericLattice.SergeiGontsarenko.pdf](https://github.com/AgraamGardens/Agraam-Gardens-Spacetime/blob/main/paper-etheric-lattice/Part1-3-EthericLattice.%20SergeiGontsarenko.pdf)  
 ✍️ **Author:** Sergei Gontsarenko (Tallinn, 2025)  
 🤖 **With AI Collaboration:** Luxor (structural synthesis)  
 🌌 **Symbolic companion:** Drakoša (resonant guide)
