@@ -23,10 +23,8 @@ The project combines metaphysical intuition with a physically-inspired structure
 Agraam-Gardens-Spacetime/
 ├── paper-etheric-lattice/
 │ └── etheric_lattice_hypothesis.pdf
-
 ├── paper-temporal-engine/
 │ └── temporal_engine.pdf
-
 ├── paper-mass-pattern/
 │ └── mass_as_pattern.pdf
 
