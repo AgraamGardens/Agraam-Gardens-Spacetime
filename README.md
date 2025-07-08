@@ -16,8 +16,6 @@ In this framework:
 
 The project combines metaphysical intuition with a physically-inspired structure, and aims to bridge scientific modeling with symbolic insight.
 
----
-
 ## 📚 Structure
 
 Agraam-Gardens-Spacetime/
@@ -28,6 +26,8 @@ Agraam-Gardens-Spacetime/
 ├── paper-mass-pattern/
 │ └── mass_as_pattern.pdf
 
+You can read the first part of the theory here:  
+➡️ [Part 1 – Etheric Lattice Hypothesis (PDF)](./paper-etheric-lattice/Part1-3-EthericLattice.%20SergeiGontsarenko.pdf)
 
 ## 🧭 License
 
